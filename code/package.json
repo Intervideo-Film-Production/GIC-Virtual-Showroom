@@ -11,7 +11,6 @@
     "@types/node": "^16.18.39",
     "@types/react": "^18.2.18",
     "@types/react-dom": "^18.2.7",
-    "contentful": "^10.4.2",
     "jotai": "^2.3.1",
     "jotai-tanstack-query": "^0.7.1",
     "react": "^18.2.0",
