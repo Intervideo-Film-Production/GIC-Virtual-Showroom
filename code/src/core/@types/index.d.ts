@@ -3,6 +3,10 @@ export interface IExperience {
   title: string;
 }
 
+export interface IRotationObject {
+  video: // Video here
+}
+
 export interface ITour {
   title: string;
 }
